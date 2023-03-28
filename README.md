@@ -1,4 +1,7 @@
-### Hi there 👋
+# Data engineer familiar with Apache suite looking for employment. 
+
+## Game dev hobbyist
+
 
 <!--
 **amadeusz-zackiewicz/amadeusz-zackiewicz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
