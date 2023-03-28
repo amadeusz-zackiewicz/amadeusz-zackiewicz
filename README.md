@@ -1,6 +1,6 @@
-# Data engineer familiar with Apache suite looking for employment. 
+Data engineer familiar with Apache suite looking for employment. 
 
-## Game dev hobbyist
+Game dev hobbyist
 
 
 <!--
