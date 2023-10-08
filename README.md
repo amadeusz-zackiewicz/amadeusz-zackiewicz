@@ -1,5 +1,3 @@
-Data engineer familiar with Apache suite looking for employment. 
-
 Game dev hobbyist
 
 
